@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Pedro+Eduardo+👋;Desenvolvedor+Full-Stack;Criando+soluções+eficientes+e+escaláveis" alt="Typing SVG" />
+</div>
 
-<!--
-**devpedroeduardo/devpedroeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p>📍 Sobral-CE, Brasil | Engenheiro de Computação | Especialista em Web Development</p>
+  
+  <a href="mailto:pedroedu77@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/devpedroeduardo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Conquistas no GitHub
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devpedroeduardo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 Sobre o meu trabalho
+
+Sou focado em construir aplicações web completas, do planejamento do banco de dados até a entrega da interface. Tenho construído desde sistemas financeiros e extração automatizada de dados até plataformas robustas de vídeo. Busco sempre aplicar boas práticas de desenvolvimento, fluxos de CI/CD e testes rigorosos.
+
+<br>
+
+## 🛠️ Stack Tecnológica
+
+<details open>
+  <summary><b>💻 Front-End</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</details>
+
+<details open>
+  <summary><b>⚙️ Back-End & Banco de Dados</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</details>
+
+<details open>
+  <summary><b>🧪 Testes, DevOps & Ferramentas</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white" title="React Testing Library" />
+  <img src="https://img.shields.io/badge/Pest-F1B73E?style=for-the-badge&logo=pest&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</details>
+
+<br>
+
+## 🚀 Em Desenvolvimento / Destaques
+
+- 💰 **FinPocket:** Sistema de finanças pessoais utilizando Next.js, Supabase e Drizzle ORM.
+- 🎬 **Vet Criativo PRO:** Plataforma de gestão de vídeos e acessos construída com Laravel e Filament.
+- 📄 **Automação de Extratos:** Script em Python e n8n para parseamento de relatórios financeiros em PDF.
+
+<br>
+
+## 📊 Gráficos de Atividade e Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpedroeduardo&theme=tokyo-night&show_icons=true&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedroeduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroeduardo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+<div align="center">
+  <p><i>"Escrevendo código limpo, resolvendo problemas complexos."</i></p>
+</div>
