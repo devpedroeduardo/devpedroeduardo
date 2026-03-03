@@ -7,7 +7,7 @@
 <div align="center">
   <p>📍 Sobral-CE, Brasil | Engenheiro de Computação | Especialista em Web Development</p>
   
-  <a href="mailto:pedroedu77@gmail.com">
+  <a href="mailto:pedroedu77@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/devpedroeduardo/">
@@ -17,19 +17,17 @@
 
 <br>
 
-## 🏆 Conquistas no GitHub
+## 🎯 O que eu entrego
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devpedroeduardo&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
+- **Desenvolvimento Full-Stack:** Construção de sistemas completos, desde a modelagem de dados e arquitetura do backend até interfaces de usuário modernas e reativas.
+- **Qualidade & Boas Práticas:** Foco na escrita de código limpo, testável e de fácil manutenção, aplicando metodologias ágeis e integrações contínuas.
+- **Foco em Resultados:** Experiência prática em traduzir regras de negócio complexas em soluções de software eficientes que resolvem problemas reais das empresas.
 
 <br>
 
 ## 👨‍💻 Sobre o meu trabalho
 
-Sou focado em construir aplicações web completas, do planejamento do banco de dados até a entrega da interface. Tenho construído sistemas robustos e busco sempre aplicar boas práticas de desenvolvimento, fluxos de CI/CD e testes rigorosos para entregar produtos escaláveis e de alta qualidade.
+Sou focado em construir aplicações web escaláveis do planejamento da infraestrutura até a entrega final. Tenho experiência tanto na manutenção e melhoria de sistemas legados quanto no desenvolvimento de novos produtos do zero. Busco sempre ambientes desafiadores para aplicar minha vivência com React, Next.js, Node.js e PHP/Laravel, garantindo performance e uma ótima experiência para o usuário final.
 
 <br>
 
@@ -69,7 +67,7 @@ Sou focado em construir aplicações web completas, do planejamento do banco de 
 ## 🚀 Em Desenvolvimento / Destaques
 
 - 💰 **MyFinpocket:** Sistema de finanças pessoais com arquitetura moderna, construído com Next.js, Supabase e Drizzle ORM focado em gestão inteligente de transações.
-- 🌱 **Saffra:** Aplicação web focada em soluções robustas e escaláveis *(adicione aqui uma breve descrição sobre o que é o Saffra e quais tecnologias você está usando nele)*.
+- 🌱 **Saffra:** Aplicação web desenvolvida com foco em performance e organização. O sistema conta com gerenciamento eficiente de dados e foi estruturado utilizando as melhores práticas do ecossistema para entregar uma interface fluida e escalável.
 
 <br>
 
