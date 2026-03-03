@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Pedro+Eduardo+👋;Desenvolvedor+Full-Stack;Criando+soluções+eficientes+e+escaláveis" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ola,+eu+sou+Pedro+Eduardo;Desenvolvedor+Full-Stack;Criando+solucoes+escalaveis" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -19,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devpedroeduardo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=devpedroeduardo&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
@@ -27,7 +29,7 @@
 
 ## 👨‍💻 Sobre o meu trabalho
 
-Sou focado em construir aplicações web completas, do planejamento do banco de dados até a entrega da interface. Tenho construído desde sistemas financeiros e extração automatizada de dados até plataformas robustas de vídeo. Busco sempre aplicar boas práticas de desenvolvimento, fluxos de CI/CD e testes rigorosos.
+Sou focado em construir aplicações web completas, do planejamento do banco de dados até a entrega da interface. Tenho construído sistemas robustos e busco sempre aplicar boas práticas de desenvolvimento, fluxos de CI/CD e testes rigorosos para entregar produtos escaláveis e de alta qualidade.
 
 <br>
 
@@ -49,7 +51,6 @@ Sou focado em construir aplicações web completas, do planejamento do banco de 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </details>
 
@@ -67,9 +68,8 @@ Sou focado em construir aplicações web completas, do planejamento do banco de 
 
 ## 🚀 Em Desenvolvimento / Destaques
 
-- 💰 **FinPocket:** Sistema de finanças pessoais utilizando Next.js, Supabase e Drizzle ORM.
-- 🎬 **Vet Criativo PRO:** Plataforma de gestão de vídeos e acessos construída com Laravel e Filament.
-- 📄 **Automação de Extratos:** Script em Python e n8n para parseamento de relatórios financeiros em PDF.
+- 💰 **MyFinpocket:** Sistema de finanças pessoais com arquitetura moderna, construído com Next.js, Supabase e Drizzle ORM focado em gestão inteligente de transações.
+- 🌱 **Saffra:** Aplicação web focada em soluções robustas e escaláveis *(adicione aqui uma breve descrição sobre o que é o Saffra e quais tecnologias você está usando nele)*.
 
 <br>
 
@@ -84,9 +84,4 @@ Sou focado em construir aplicações web completas, do planejamento do banco de 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedroeduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroeduardo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-<div align="center">
-  <p><i>"Escrevendo código limpo, resolvendo problemas complexos."</i></p>
 </div>
