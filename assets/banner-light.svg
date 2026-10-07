@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Pedro Eduardo — Desenvolvedor Full-Stack">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#e3f3f1"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#0f7d77" opacity="0.22"/></pattern>
+  </defs>
+  <rect width="1280" height="400" rx="18" fill="url(#g)"/>
+  <rect x="0" y="0" width="560" height="400" fill="url(#dots)" opacity="0.6" rx="18"/>
+  <rect x="64" y="96" width="6" height="150" rx="3" fill="#0f7d77"/>
+  <text x="92" y="128" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="18" fill="#0f7d77" letter-spacing="2">OLÁ, EU SOU</text>
+  <text x="90" y="188" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#1f2328">Pedro Eduardo</text>
+  <text x="92" y="232" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#1f2328" opacity="0.9">Desenvolvedor Full-Stack</text>
+  <text x="92" y="300" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" fill="#57606a">React · Next.js · Node.js · TypeScript</text>
+  <text x="92" y="330" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" fill="#57606a">Engenharia de Computação · UFC</text>
+  <g>
+    <rect x="712" y="64" width="504" height="290" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <circle cx="738" cy="90" r="6" fill="#ff5f57"/><circle cx="758" cy="90" r="6" fill="#febc2e"/><circle cx="778" cy="90" r="6" fill="#28c840"/>
+    <text x="1196" y="95" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#57606a">pedro.ts</text>
+    <line x1="712" y1="112" x2="1216" y2="112" stroke="#d0d7de"/>
+    <text x="742" y="150" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#cf222e">const </tspan><tspan fill="#1f2328">pedro</tspan><tspan fill="#57606a"> = {</tspan></text><text x="742" y="177" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#8250df">  cargo</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">"Desenvolvedor Full-Stack"</tspan><tspan fill="#57606a">,</tspan></text><text x="742" y="204" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#8250df">  stack</tspan><tspan fill="#57606a">: [</tspan><tspan fill="#0a3069">"React"</tspan><tspan fill="#57606a">, </tspan><tspan fill="#0a3069">"Next.js"</tspan><tspan fill="#57606a">, </tspan><tspan fill="#0a3069">"Node.js"</tspan><tspan fill="#57606a">],</tspan></text><text x="742" y="231" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#8250df">  dados</tspan><tspan fill="#57606a">: [</tspan><tspan fill="#0a3069">"Oracle"</tspan><tspan fill="#57606a">, </tspan><tspan fill="#0a3069">"MySQL"</tspan><tspan fill="#57606a">, </tspan><tspan fill="#0a3069">"Supabase"</tspan><tspan fill="#57606a">],</tspan></text><text x="742" y="258" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#8250df">  testes</tspan><tspan fill="#57606a">: [</tspan><tspan fill="#0a3069">"Playwright"</tspan><tspan fill="#57606a">, </tspan><tspan fill="#0a3069">"Jest"</tspan><tspan fill="#57606a">],</tspan></text><text x="742" y="285" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#8250df">  base</tspan><tspan fill="#57606a">: </tspan><tspan fill="#0a3069">"Sobral-CE, Brasil"</tspan><tspan fill="#57606a">,</tspan></text><text x="742" y="312" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#57606a">};</tspan></text><text x="742" y="339" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="17" xml:space="preserve"><tspan fill="#6e7781">// aberto a vagas e projetos freelance</tspan></text>
+    <rect x="768" y="297" width="10" height="20" fill="#0f7d77"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
