@@ -51,6 +51,7 @@ Como **Analista de TI em uma distribuidora**, sustentei o ERP **TOTVS WinThor**,
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
       </p>
+      <p><a href="https://my-finpocket.vercel.app/"><b>Ver online »</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>📋 <a href="https://github.com/devpedroeduardo/bemobile-project">Bemobile</a></h4>
